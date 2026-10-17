@@ -280,6 +280,3 @@ Feedstock Maintainers
 * [@p-vdp](https://github.com/p-vdp/)
 * [@paleolimbot](https://github.com/paleolimbot/)
 
-
-<!-- dummy commit to enable rerendering -->
-
